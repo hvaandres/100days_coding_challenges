@@ -1,4 +1,4 @@
-## Daily Python Challenges
+## Daily Coding Challenges
 
 # UPDATE
 We've moved away from repl.it for coding exercises.

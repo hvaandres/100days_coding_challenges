@@ -1,63 +1,38 @@
-## Your Life in Weeks
+## Daily Python Challenges
 
 # UPDATE
 We've moved away from repl.it for coding exercises.
 Check out the new exercises on Coding Rooms with automated submissions.
 
-Login to your Udemy course and head over to the link below to get the sign up link:
+Login to your Udemy course and head over to the link below to get the sign-up link:
 
 [Click here](https://www.udemy.com/course/100-days-of-code/learn/lecture/17825914#questions)
 
-# Instructions
+# Info
 
-I was reading this article by Tim Urban - Your Life in Weeks and realised just how little time we actually have.
+If you would like to learn more about programming, these other links can help you:
 
-[https://waitbutwhy.com/2014/05/life-weeks.html](https://waitbutwhy.com/2014/05/life-weeks.html)
+[Google](https://grow.google/certificates/#?modal_active=none) have UX Design, IT, Automation, Android, etc. All of these are for Free.
 
-Create a program using maths and f-Strings that tells us how many days, weeks, months we have left if we live until 90 years old. 
+[IBM]() have cybersecurity courses through Coursera.
 
-It will take your current age as the input and output a message with our time left in this format:
+[Angela Yu]() have a bunch of good courses through Udemy.
 
-> You have x days, y weeks, and z months left. 
+[Nucamp Coding Bootcamp](https://www.nucamp.co/community/near/you?referral=YGVUVG) has good prices for their coding bootcamp. Good start and good way to start to get your foot in the door.
 
-Where x, y and z are replaced with the actual calculated numbers. 
+[Coursera](http://fbuy.me/v/hvaandres_1) a bunch of good opportunities to get a course for free. You can apply for financial aid and get so many courses for FREE.
 
- 
+[YouTube](https://www.youtube.com/) is the best resource to look up for ideas.
 
-**Warning** your output should match the Example Output format exactly, even the positions of the commas and full stops. 
+[David Bombal](https://www.youtube.com/c/DavidBombal) great video content creator that will give you an idea how to get into cybersecurity.
 
-# Example Input
+[HackerOne](https://www.hackerone.com/) will provide you a guide to start into cybersecurity.
 
-```
-56
-```
+[Career Karma](https://careerkarma.com/) will provide you assistance to know how to get into programming, what are the best schools, and how to prepare for the future..!
 
-# Example Output
+[Google Developer Groups (GDG)](https://developers.google.com/) a platform where you can listen to experts around the world about everything in the tech industry.
 
-```
-You have 12410 days, 1768 weeks, and 408 months left.
-```
+[freeCodeCamp](https://www.freecodecamp.org/) will give you all the resources to become a software engineer..!
 
-e.g. When you hit **run**, this is what should happen:  
+[Danny Thompson](https://www.youtube.com/channel/UC8ha68gfkmh5v2a2BAx7low) good resource to learn how to win & how to be successful.
 
- 
-![](https://cdn.fs.teachablecdn.com/RjqBViZQpyVTv7XY6cfA)
- 
-
-# Hint
-
-1. There are 365 days in a year, 52 weeks in a year and 12 months in a year.
-2. Try copying the example output into your code and replace the relevant parts so that the sentence is formated the same way.
-
-# Test Your Code
-
-Before checking the solution, try copy-pasting your code into this repl: 
-
-[https://repl.it/@appbrewery/day-2-3-test-your-code](https://repl.it/@appbrewery/day-2-3-test-your-code)
-
-This repl includes my testing code that will check if your code meets this assignment's objectives. 
-
-
-# Solution
-
-[https://repl.it/@appbrewery/day-2-3-solution](https://repl.it/@appbrewery/day-2-3-solution)

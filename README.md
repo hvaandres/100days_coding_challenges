@@ -14,19 +14,19 @@ If you would like to learn more about programming, these other links can help yo
 
 [Google](https://grow.google/certificates/#?modal_active=none) have UX Design, IT, Automation, Android, etc. All of these are for Free.
 
-[IBM]() have cybersecurity courses through Coursera.
+[IBM](https://www.ibm.com/skills/) have cybersecurity courses through Coursera.
 
-[Angela Yu]() have a bunch of good courses through Udemy.
+[Angela Yu](https://www.udemy.com/user/4b4368a3-b5c8-4529-aa65-2056ec31f37e/) have a bunch of good courses through Udemy.
 
-[Nucamp Coding Bootcamp](https://www.nucamp.co/community/near/you?referral=YGVUVG) has good prices for their coding bootcamp. Good start and good way to start to get your foot in the door.
+[Nucamp Coding Bootcamp](https://www.nucamp.co/community/near/you?referral=YGVUVG) has good prices for their coding bootcamp. A good start and a good way to start to get your foot in the door.
 
 [Coursera](http://fbuy.me/v/hvaandres_1) a bunch of good opportunities to get a course for free. You can apply for financial aid and get so many courses for FREE.
 
 [YouTube](https://www.youtube.com/) is the best resource to look up for ideas.
 
-[David Bombal](https://www.youtube.com/c/DavidBombal) great video content creator that will give you an idea how to get into cybersecurity.
+[David Bombal](https://www.youtube.com/c/DavidBombal) great video content creator that will give you an idea of how to get into cybersecurity.
 
-[HackerOne](https://www.hackerone.com/) will provide you a guide to start into cybersecurity.
+[HackerOne](https://www.hackerone.com/) will provide you with a guide to start into cybersecurity.
 
 [Career Karma](https://careerkarma.com/) will provide you assistance to know how to get into programming, what are the best schools, and how to prepare for the future..!
 
